@@ -1,0 +1,4 @@
+pyspark
+textblob
+tweepy
+confluent-kafka
